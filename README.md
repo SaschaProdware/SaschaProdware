@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaschaProdware
-- 👀 I’m interested in Golf, Diving, Geocaching
-- 🌱 I’m currently learning modern Datawarehouse (datalake, synapse) 
+- 👀 I’m interested in Data & Analytics
+- 🌱 I’m currently using modern Datawarehouse (fabric, onelake, formerly synapse, datalake) 
 - 💞️ I’m looking to collaborate on business intelligence
 - 📫 How to reach me: mail 
 
